@@ -1,0 +1,5 @@
+int32 arrival_state
+float32 reward
+---
+bool success
+string error_msg

@@ -1,0 +1,9 @@
+int32 num_states
+int32 num_actions
+float32 alpha
+float32 beta
+float32 gamma
+float32[] initial_q
+---
+bool success
+string error_msg
